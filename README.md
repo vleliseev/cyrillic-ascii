@@ -8,5 +8,5 @@ ASCII-art из символов русского алфавита
 
 ### Usage
 
-![usage](https://github.com/shmel3/cyrillic-ascii/blob/master/img/usage.png)
+![usage](https://github.com/shmel3/cyrillic-ascii/blob/master/img/example.png)
 
